@@ -7,7 +7,7 @@ const app = express()
 app.use(cors())
 app.use(express.json())
 app.use(express.static('tmp'))
-app.use(`/`,routes)
+app.use(`/get/`,routes)
 app.get('/', (req: any, res: { send: (arg0: string) => void }) => {
     res.send('Hola mi server en express');
 });
