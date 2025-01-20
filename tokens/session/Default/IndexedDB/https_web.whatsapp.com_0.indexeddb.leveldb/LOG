@@ -1,0 +1,67 @@
+2025/01/20-08:23:36.591 3cf8 Creating DB C:\Users\Jeison Llanos\WebstormProjects\lalama-whatsapp\tokens\session\Default\IndexedDB\https_web.whatsapp.com_0.indexeddb.leveldb since it was missing.
+2025/01/20-08:23:36.599 3cf8 Reusing MANIFEST C:\Users\Jeison Llanos\WebstormProjects\lalama-whatsapp\tokens\session\Default\IndexedDB\https_web.whatsapp.com_0.indexeddb.leveldb/MANIFEST-000001
+2025/01/20-08:23:36.768 2b44 Manual compaction at level-0 from '\x00\x02\x00\x00\x00' @ 72057594037927935 : 1 .. '\x00\x03\x00\x00\x00' @ 0 : 0; will stop at (end)
+2025/01/20-08:23:36.770 2b44 Manual compaction at level-0 from '\x00\x03\x00\x00\x00' @ 72057594037927935 : 1 .. '\x00\x04\x00\x00\x00' @ 0 : 0; will stop at (end)
+2025/01/20-08:23:36.771 2b44 Level-0 table #5: started
+2025/01/20-08:23:36.775 2b44 Level-0 table #5: 9666 bytes OK
+2025/01/20-08:23:36.780 2b44 Delete type=0 #3
+2025/01/20-08:23:36.781 2b44 Manual compaction at level-0 from '\x00\x04\x00\x00\x00' @ 72057594037927935 : 1 .. '\x00\x05\x00\x00\x00' @ 0 : 0; will stop at (end)
+2025/01/20-08:23:36.781 2b44 Manual compaction at level-0 from '\x00\x05\x00\x00\x00' @ 72057594037927935 : 1 .. '\x00\x06\x00\x00\x00' @ 0 : 0; will stop at (end)
+2025/01/20-08:23:36.784 2b44 Level-0 table #7: started
+2025/01/20-08:23:36.788 2b44 Level-0 table #7: 700 bytes OK
+2025/01/20-08:23:36.789 61ac Current memtable full; waiting...
+2025/01/20-08:23:36.792 2b44 Delete type=0 #4
+2025/01/20-08:23:36.792 2b44 Level-0 table #9: started
+2025/01/20-08:23:36.797 2f88 Current memtable full; waiting...
+2025/01/20-08:23:36.798 2b44 Level-0 table #9: 630 bytes OK
+2025/01/20-08:23:36.801 2b44 Delete type=0 #6
+2025/01/20-08:23:36.802 2b44 Level-0 table #11: started
+2025/01/20-08:23:36.807 2b44 Level-0 table #11: 418 bytes OK
+2025/01/20-08:23:36.809 47bc Current memtable full; waiting...
+2025/01/20-08:23:36.810 2b44 Delete type=0 #8
+2025/01/20-08:23:36.811 2b44 Level-0 table #13: started
+2025/01/20-08:23:36.815 3974 Current memtable full; waiting...
+2025/01/20-08:23:36.817 2b44 Level-0 table #13: 574 bytes OK
+2025/01/20-08:23:36.820 2b44 Delete type=0 #10
+2025/01/20-08:23:36.821 2b44 Level-0 table #15: started
+2025/01/20-08:23:36.826 2b44 Level-0 table #15: 273 bytes OK
+2025/01/20-08:23:36.830 2b44 Delete type=0 #12
+2025/01/20-08:23:36.830 6888 Manual compaction at level-0 from '\x00\x08\x00\x00\x00' @ 72057594037927935 : 1 .. '\x00\x09\x00\x00\x00' @ 0 : 0; will stop at '\x00\x08\x00\x00\x05' @ 707 : 0
+2025/01/20-08:23:36.830 6888 Compacting 4@0 + 1@1 files
+2025/01/20-08:23:36.833 6888 Generated table #16@0: 52 keys, 936 bytes
+2025/01/20-08:23:36.833 6888 Compacted 4@0 + 1@1 files => 936 bytes
+2025/01/20-08:23:36.836 6888 compacted to: files[ 0 1 1 0 0 0 0 ]
+2025/01/20-08:23:36.837 6888 Delete type=2 #13
+2025/01/20-08:23:36.837 6888 Delete type=2 #15
+2025/01/20-08:23:36.838 3cf8 Manual compaction at level-0 from '\x00\x09\x00\x00\x00' @ 72057594037927935 : 1 .. '\x00\x0a\x00\x00\x00' @ 0 : 0; will stop at (end)
+2025/01/20-08:23:36.838 3cf8 Manual compaction at level-0 from '\x00\x07\x00\x00\x00' @ 72057594037927935 : 1 .. '\x00\x08\x00\x00\x00' @ 0 : 0; will stop at (end)
+2025/01/20-08:23:36.838 3cf8 Manual compaction at level-0 from '\x00\x0a\x00\x00\x00' @ 72057594037927935 : 1 .. '\x00\x0b\x00\x00\x00' @ 0 : 0; will stop at (end)
+2025/01/20-08:23:36.838 3cf8 Manual compaction at level-0 from '\x00\x06\x00\x00\x00' @ 72057594037927935 : 1 .. '\x00\x07\x00\x00\x00' @ 0 : 0; will stop at (end)
+2025/01/20-08:23:36.838 3cf8 Manual compaction at level-0 from '\x00\x08\x00\x00\x05' @ 707 : 0 .. '\x00\x09\x00\x00\x00' @ 0 : 0; will stop at (end)
+2025/01/20-08:23:36.838 3cf8 Manual compaction at level-1 from '\x00\x08\x00\x00\x00' @ 72057594037927935 : 1 .. '\x00\x09\x00\x00\x00' @ 0 : 0; will stop at '\x00\x0b\x00\x00\x05' @ 743 : 0
+2025/01/20-08:23:36.838 3cf8 Compacting 1@1 + 1@2 files
+2025/01/20-08:23:36.841 3cf8 Generated table #17@1: 221 keys, 4817 bytes
+2025/01/20-08:23:36.841 3cf8 Compacted 1@1 + 1@2 files => 4817 bytes
+2025/01/20-08:23:36.844 3cf8 compacted to: files[ 0 0 1 0 0 0 0 ]
+2025/01/20-08:23:36.844 3cf8 Delete type=2 #16
+2025/01/20-08:23:36.845 3cf8 Manual compaction at level-0 from '\x00\x0b\x00\x00\x00' @ 72057594037927935 : 1 .. '\x00\x0c\x00\x00\x00' @ 0 : 0; will stop at (end)
+2025/01/20-08:23:36.845 3cf8 Manual compaction at level-1 from '\x00\x0b\x00\x00\x00' @ 72057594037927935 : 1 .. '\x00\x0c\x00\x00\x00' @ 0 : 0; will stop at (end)
+2025/01/20-08:23:36.845 3cf8 Manual compaction at level-1 from '\x00\x07\x00\x00\x00' @ 72057594037927935 : 1 .. '\x00\x08\x00\x00\x00' @ 0 : 0; will stop at (end)
+2025/01/20-08:23:36.845 3cf8 Manual compaction at level-1 from '\x00\x06\x00\x00\x00' @ 72057594037927935 : 1 .. '\x00\x07\x00\x00\x00' @ 0 : 0; will stop at (end)
+2025/01/20-08:23:36.845 3cf8 Manual compaction at level-1 from '\x00\x09\x00\x00\x00' @ 72057594037927935 : 1 .. '\x00\x0a\x00\x00\x00' @ 0 : 0; will stop at (end)
+2025/01/20-08:23:36.845 3cf8 Manual compaction at level-1 from '\x00\x0b\x00\x00\x05' @ 743 : 0 .. '\x00\x09\x00\x00\x00' @ 0 : 0; will stop at (end)
+2025/01/20-08:23:36.845 3cf8 Manual compaction at level-1 from '\x00\x0a\x00\x00\x00' @ 72057594037927935 : 1 .. '\x00\x0b\x00\x00\x00' @ 0 : 0; will stop at (end)
+2025/01/20-08:23:36.854 3cf8 Level-0 table #19: started
+2025/01/20-08:23:36.856 3cf8 Level-0 table #19: 5663 bytes OK
+2025/01/20-08:23:36.860 3cf8 Delete type=2 #5
+2025/01/20-08:23:36.860 3cf8 Delete type=2 #7
+2025/01/20-08:23:36.860 3cf8 Delete type=2 #9
+2025/01/20-08:23:36.860 3cf8 Delete type=2 #11
+2025/01/20-08:23:36.860 3cf8 Delete type=0 #14
+2025/01/20-08:23:36.861 3cf8 Manual compaction at level-0 from '\x00\x0f\x00\x00\x00' @ 72057594037927935 : 1 .. '\x00\x10\x00\x00\x00' @ 0 : 0; will stop at (end)
+2025/01/20-08:23:38.228 3cf8 Compacting 1@1 + 1@2 files
+2025/01/20-08:23:38.231 3cf8 Generated table #20@1: 282 keys, 5484 bytes
+2025/01/20-08:23:38.231 3cf8 Compacted 1@1 + 1@2 files => 5484 bytes
+2025/01/20-08:23:38.233 3cf8 compacted to: files[ 0 0 1 0 0 0 0 ]
+2025/01/20-08:23:38.233 3cf8 Delete type=2 #17
+2025/01/20-08:23:38.233 3cf8 Delete type=2 #19
