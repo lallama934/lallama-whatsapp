@@ -6,7 +6,7 @@ import LeadCtrl from "./controller/lead.ctrl";
 import MockRepository from "./repositories/mock.repository";
 // import TwilioService from "./repositories/twilio.repository";
 import WsTransporter from "./repositories/ws.external";
-// import { VenomTransporter } from "./repositories/venom.repository";
+ // import { VenomTransporter } from "./repositories/venom.repository";
 // import { BaileysTransporter } from "./repositories/baileys.repository";
 
 
